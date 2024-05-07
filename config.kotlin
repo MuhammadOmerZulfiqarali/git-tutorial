@@ -1,0 +1,3 @@
+config.kotlin
+console.log('config.kotlin')
+console.log('version1')
